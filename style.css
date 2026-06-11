@@ -400,9 +400,17 @@ body {
     padding: 0 15px;
     gap: 20px;
   }
+     .hero-content h1 {
+    font-size: 1.8rem;
+    line-height: 1.2;
+  }
 
+  .hero-content p {
+    font-size: 0.95rem;
+    padding: 0 10px;
+  }
   .plantas {
-    width: 80%;
+    width: 100%;
     grid-template-columns: 1fr;
     gap: 15px;
   }
