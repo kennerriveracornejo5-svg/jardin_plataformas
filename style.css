@@ -396,18 +396,6 @@ body {
    CELULARES
 ========================== */
 @media (max-width: 576px) {
-  .hero {
-    min-height: 30vh;
-    background: url("img/fondo.png");
-
-    background-size: cover;
-    background-position: center;
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    color: white;
-  }
   .imagenes_biohuerto {
     padding: 0 15px;
     gap: 20px;
@@ -432,3 +420,17 @@ body {
     border-radius: 12px;
   }
 }
+@media (max-width: 468px){
+     .hero {
+    min-height: 30vh;
+    background: url("img/fondo.png");
+
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+   
