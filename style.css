@@ -274,8 +274,8 @@ body {
 }
 
 .card {
-  background-color: #d2ebd4; /* Verde menta suave y vivo */
-  border: 2px solid #cde9d0; /* Borde un punto más oscuro para enmarcar */
+   background-color: #e6f8e7; /* Verde menta suave y vivo */
+  border: 2px solid #cae0cc; /* Borde un punto más oscuro para enmarcar */
   border-radius: 24px;
   box-shadow: 0 8px 20px rgba(74, 117, 79, 0.12); /* Sombra con matiz verde */
   padding: 35px;
